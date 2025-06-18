@@ -1,0 +1,2 @@
+Hello, ftrace!
+im viet
